@@ -1,4 +1,4 @@
-# 마이크로서비스 아키텍처로 변경한 백엔드입니다.
+# 마이크로서비스 아키텍처로 변경한 백엔드
 ## 사용 기술 : Spring cloud, Maria DB, AWS EC2, Rabbit MQ, Kafka
 
 서비스 구성
