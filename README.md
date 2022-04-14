@@ -5,3 +5,11 @@
 - service-discovery : 서비스 디스커버리로, 마이크로서비스들을 관리 
 - apigateway-service : API 게이트웨이 마이크로서비스 
 - user-service : 유저 마이크로서비스 
+
+추가할 내용
+- cart-service
+- order-service
+- retailer-service
+- item-service
+- stock-service
+- config-server
