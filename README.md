@@ -13,3 +13,6 @@
 - item-service
 - stock-service
 - config-server
+
+수정해야 할 사항
+- user-service : 회원 삭제가 DELETE가 아닌 POST
